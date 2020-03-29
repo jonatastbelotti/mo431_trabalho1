@@ -15,7 +15,7 @@ print("Matplotlib", matplotlib.__version__)
 
 # Lendo arquivo com a matriz X e a primeira imagem
 print("\nLeia o arquivo X.npy")
-X = np.load("/home/jonatastbelotti/Documentos/Doutorado/3° Semestre/Algebra/Trabalhos/Trabalho 1/X.npy")
+X = np.load("/home/jonatastbelotti/Documentos/Doutorado/3° Semestre/Algebra/Trabalhos/mo431_trabalho1/X.npy")
 
 
 # Exibindo imagem
